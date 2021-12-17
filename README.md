@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3dBuilderBob
-- 👀 I’m interested in ...LoRa, Crypto mining, 3D printing
-- 🌱 I’m currently learning ...Anything and everything; an info junkie!
+- 👀 I’m interested in ... LoRa, Crypto mining, 3D printing
+- 🌱 I’m currently learning ... Anything and everything; an info junkie!
 -
 -
 
